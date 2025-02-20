@@ -1,0 +1,38 @@
+Highlights of Qualifications 
+•	Currently enrolled in level 2 Computer Science at McMaster University
+•	Proficiency in data entry and proper documentation on excel developed as a program support assistant at MacPherson and receptionist at Kumon.
+•	Excellent organizational and analytical skills expanded upon while working as research assistant.
+•	Experienced at working within an office setting.
+
+Education
+Computer Science - Bachelor of Applied Science | McMaster University          Sept. 2022 – April 2027
+•	Awards and Scholarships:
+· DECA Alumni Leadership Award
+· Dean’s Excellence Engineering Research Experience Award
+· McMaster Award of Excellence
+	
+Experience
+Research Assistant | McMaster University, Computing and Software                      May 2023 – Present
+•	Worked with Dr. Stephen Kelly to research evolving adaptable control policies using genetic programming.
+•	Coded python programs using gymnasium’s pendulum task and Distributed Evolutionary Algorithms in Python (DEAP) to conduct the experiments on GitLab.
+
+Program Support Assistant | MacPherson Institute, Hamilton, ON                        Sept. 2022 – May 2023
+•	Maintained a flexible and adaptable work ethic to support my supervisor at anytime.
+•	Gathered, arranged, and corrected research data to create representative graphs and charts.
+•	Worked in an office setting actively participating in meetings and updating teammates.
+
+Receptionist | Kumon North America Inc, Ajax, ON                                                   Sept. 2020 – Aug. 2022
+•	Operated and hosted various MS Team and Zoom meetings between staff and clients
+•	Organized and filed company documents using CMS Standard
+•	Assisted other administrative staff with overflow work, including word processing and data entry
+
+
+Skills
+Programming
+•	Java, Python, C, Haskell, PyGame
+Office
+•	MS Team, Zoom, Google Sheets, Excel, SharePoint
+
+Project
+Pong Clone | https://github.com/Ctrl-Sky/Pong-Clone.git 			      July. 2022 – Aug. 2022
+•	First project developed on pygame meant to replicate the classic game, Pong.
