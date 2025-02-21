@@ -2,11 +2,11 @@ Experience
 Job_title = Research Assistant
 Location = McMaster University, Computing and Software
 Date = May 2023 - Aug 2023
-Point = Worked with Dr. Stephen Kelly to research evolving adaptable control policies using gymnasium’s pendulum task and Distributed Evolutionary Algorithms in Python (DEAP) to conduct experiments on the partially observable pendulum task using machine learning.
+Point = Worked with Dr. Stephen Kelly to research evolving adaptable control policies using gymnasium's pendulum task and Distributed Evolutionary Algorithms in Python (DEAP) to conduct experiments on the partially observable pendulum task using machine learning.
 Point = Designed an algorithm to pull the data from each experiment and write it to a csv to then create visual diagrams and graphs for presentation using NumPy and Pandas.
 
 Job_title = Software Developer/DevOps Intern
-Location = Ontario Teachers’ Pension Plan
+Location = Ontario Teachers' Pension Plan
 Date = Sept 2024 - Aug 2025
 Point = Implemented CI/CD pipelines using Jenkins, GitHub, Ansible, and SonarQube to automate deployment and testing processes of different .NET and python applications.
 Point = Rearchitected the company's Docker base image system, consolidating multiple redundant images (e.g., RHEL8 and Ubuntu with various Python versions) into a single standardized Ubuntu base image, reducing maintenance complexity and improving efficiency.
@@ -26,16 +26,16 @@ Project Description = Developed an application integrating Google's Gemini 2.0 m
 
 
 Relevant Coursework
-Course name = COMPSCI 2DB3 – Databases				 
+Course name = COMPSCI 2DB3 - Databases				 
 Course description = Researched data modelling, integrity constraints, principles and design of relational databases, relational algebra, SQL, MySQL, SQLite, Microsoft SQL query processing, transactions, concurrency control, recovery, security, and data storage.
 
-Course name = COMPSCI 2C03 – Data Structures and Algorithms				
+Course name = COMPSCI 2C03 - Data Structures and Algorithms				
 Course Description = Studied basic data structures such as, stacks, queues, hash tables, and binary trees. Reviewed graph representations and various algorithms, including minimum spanning trees, traversals, and shortest path, and analyzed their performance analysis.
 
-Course name = COMPSCI 2GA3 – Computer Architecture
+Course name = COMPSCI 2GA3 - Computer Architecture
 Course description = Gain an understanding of memory hierarchy, studying memory types and characteristics, cache memory design and optimization, virtual memory systems, and page tables. On top of that, learn about dynamic memory allocation and deallocation, memory mapping, memory protection, and documentation.
 
-Course name = COMPSCI 2ME3 – Introduction to Software Development
+Course name = COMPSCI 2ME3 - Introduction to Software Development
 Course description = Using java, practiced classes and inheritance, class invariants, and interface specification. On top of that, worked on object-oriented design patterns, tools for interface documentation, development models, and program analysis.
 
 Skills

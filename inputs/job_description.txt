@@ -1,50 +1,60 @@
 Full job description
-About the Role:
-Grade Level (for internal use): 05
+Company:
+Qualcomm Canada ULC
+Job Area:
+Interns Group, Interns Group > Interim Engineering Intern - SW
+Qualcomm Overview:
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
 
-The Team:
-Our Ratings Technology Services and Technology Strategy Governance team enables a culture & mindset of Customer-First with a focus on delivering value through disciplined program delivery. Continuing to improve our User experience and stability of systems, employee productivity, innovation & overall employee engagement.
+General Summary:
 
-Responsibilities and Impact:
-You will be p articipat ing in full development life cycle of product: design, development, testing , optimization and operations etc . in live environment impacting the world of finance.
-Learn and adopt SAFE software development practices as part of our SDLC
+Qualcomm Overview:
 
-Gain exposure into Ratings process and companywide standards, research, tools and other practices in analytical space.
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
 
-Take ownership of a specific problem aimed at solving real world use case related to structured finance or finance in general.
+General Summary:
 
-Engage with senior leadership, build relations with diverse employee across the organization and get involved in various events other than your core responsibilities .
+Before there were smartphones or smart cities, before autonomous cars or 360° virtual reality videos, there was our technology. Headquartered in San Diego, for over 30 years Qualcomm inventions have inspired others to make the impossible, possible. From 5G to artificial intelligence, IoT to automotive and extended reality applications, Qualcomm is inventing the technologies of an intelligently connected future, spearheading research efforts for the next global wireless standard, and collaborating with industry leaders in the wireless value chain to make this future a commercial reality.
 
-Compensation/Benefits Information:
-S&P Global states that the anticipated base salary range of compensation for this position is $48,625 to $58,625. Final base salary compensation for this role will be based on the individual’s performance, geographic location, as well as experience level, skill set, training, licenses and certifications.
+We are looking for bright, energetic, motivated students to join Qualcomm’s Canada 2024 intern class!
 
-This role is not eligible for additional compensation such as an annual incentive bonus or sales commission plan.
+Software Toolchains Project
 
-What We’re Looking For:Basic Required Qualifications:
-Have strong C omputer Scie nce fundamentals through a current pursuit of bachelor’s in C omputer S cience , math or Computer Engineering, Management Information Systems, or related discipline
+Do you want to understand how source code is turned into running programs on the latest SoC with advanced computer architecture with industry leading performance? Be part of the group that writes compilers and uses analysis to generate fast code, working closely with Qualcomm’s CPU architects.
 
-Fully matriculated students with anticipated graduation date in Fall 2025 or Spring 2026
+You will be working with a small, focused team of industry experts who are passionate about what they do and want to help you advance in your career. We have a number of projects available based upon your level and interest. They include:
 
-Some programming experience (either in class or in your personal time). We work mostly on Java and Python with some scala. However, in this ever-changing world, languages can be learned. We at S&P care more about your general engineering skill rather than knowledge of a particular language or framework.
+Analyzing the performance of industry benchmarks and implementing compiler changes to improve performance
+Implement data visualization methods to help our team and the CPU architects understand performance characteristics
+Run simulations of architectural features under development and communicate those results
+Programming Languages:
 
-Familiarity with navigating new codebases and managing work across different programming languages .
+Python/Perl or other scripting languages
+C/C++
+Minimum Qualifications:
 
-Collaborating with teammates during technical designs and planning.
+Strong academic records (GPA 3.0 or 72% and better);
+Excellent programming skills in Python, Perl, C/C++
+Ability to debug, root cause, and resolve issues spanning multiple subsystems.
+Proven ability to own problems and drive them to a resolution
+Basic understanding of Computer Architecture/microarchitecture concepts
+Strong problem-solving skills
+Effective interpersonal communications skill (written and verbal)
+Analytical, thorough, resourceful and detail-oriented
+Self-motivated, hardworking, and flexible
+Preferred Qualifications:
 
-Additional Preferred Qualifications:
-Examples of relevant work and your approach to learning, such as GitHub repositories, StackOverflow contributions, or other project portfolios.
+Academic experience with toolchains/compilers such as LLVM or GCC.
+Experience in Python, Debug, Gitlab, and Jira are all a plus
+Educational Requirements:
 
-A proactive approach to learning unfamiliar systems and a demonstrated ability to understand complex systems independently.
+In study towards a bachelors in one of the following: electrical engineering, computer engineering, computer science or related field
+For 12 or 16 month internships must be available May 2025 - May 2026 or May 2025 - August 2026
+Must be continuing education after the internship concludes.
+Applicants: Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail myhr.support@qualcomm.com or call Qualcomm's toll-free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities.
 
-About S&P Global Ratings
-At S&P Global Ratings, our analyst-driven credit ratings, research, and sustainable finance opinions provide critical insights that are essential to translating complexity into clarity so market participants can uncover opportunities and make decisions with conviction. By bringing transparency to the market through high-quality independent opinions on creditworthiness, we enable growth across a wide variety of organizations, including businesses, governments, and institutions.
-S&P Global Ratings is a division of S&P Global (NYSE: SPGI). S&P Global is the world’s foremost provider of credit ratings, benchmarks, analytics and workflow solutions in the global capital, commodity and automotive markets. With every one of our offerings, we help many of the world’s leading organizations navigate the economic landscape so they can plan for tomorrow, today.
+Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.
 
-For more information, visit www.spglobal.com/ratings
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
 
-What’s In It For You?
-
-Our Purpose:
-Progress is not a self-starter. It requires a catalyst to be set in motion. Information, imagination, people, technology–the right combination can unlock possibility and change the world.
-
-Our world is in transition and getting more complex by the day. We push past expected observations and seek out new levels of understanding so that we can help companies, governments and individuals make an impact on tomorrow. At S&P Global we transform data into Essential Intelligence®, pinpointing risks and opening possibilities. We Accelerate Progr
+If you would like more information about this role, please contact Qualcomm Careers.
