@@ -1,11 +1,39 @@
 Full job description
-- Are enrolled in a academic program that is physically located in Canada - Experience with at least one modern language such as Java, Python, C++, or C# including object-oriented design - Currently enrolled in a Bachelors, Masters, or PhD program in Computer Science with an expected graduation date between 10/2025 - 9/2028
-We’re on the lookout for the curious, those who think big and want to define the world of tomorrow. At Amazon, you will grow into the high impact, visionary person you know you’re ready to be. Every day will be filled with exciting new challenges, developing new skills, and achieving personal growth. How often can you say that your work changes the world? At Amazon, you’ll say it often. Join us and define tomorrow. At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The intense focus we have on our customers is why we are one of the world’s most beloved brands – customer obsession is part of our company DNA. Our interns write real software and collaborate with experienced software development engineers (SDEs) who guide interns on projects that matter to our customers. Key job responsibilities • Design, implement and deliver state-of-the-art distributed, high-performance data and transaction management processing algorithms and solutions. • Deploy and monitor new features in a highly available and fault tolerant system running in the cloud. A day in the life As an intern, you will be matched to a manager and a mentor. You will have the opportunity to influence the evolution of Amazon technology and lead mission critical projects early in your career. Your design, code, and raw smarts will contribute to solving some of the most complex technical challenges in the areas of distributed systems, data mining, automation, optimization, scalability, and security – just to name a few. In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in activities with other interns throughout your internship. No matter the location of your internship, we give you the tools to own your project and learn in a real-world setting. Many of our technologies overlap, and you would be hard pressed to find a team that is not using Amazon Web Services (AWS), touching the catalogue, or iterating services to better personalize for customers. We make the impossible, possible.
-Knowledge of computer science fundamentals such as object-oriented design, operating systems, algorithms, data structures, and complexity analysis
-Internship, project, or academic experience in at least one of the areas: internals, kernel, OS/storage systems, job scheduling, resource management, file systems, search, or performance engineering
+Who We Are
+Hi! We’re Thinkingbox, a global creative collective shaping the future of brands through craft and curiosity. Our team brings together unique perspectives in design, technology, and strategy that push the boundaries for our clients to create work that is innovative. We are a curious bunch that loves to think big, continuously learn, and create. We love our culture and the natural collaboration that happens in and around our offices, from hanging out with our office dogs to fun weekly events, we maintain a vibrant work environment. However, for 4 weeks a year we encourage our people to explore the world. Try working from another office or even the beaches of Mexico and expand your worldview, then bring that experience back to the team.
 
-Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status.
+The Opportunity
+We are seeking a talented and motivated Front End Developer Intern to join our team. As a Front End Developer Intern at Thinkingbox, you will have the opportunity to work alongside experienced Developers in a collaborative environment. This internship offers hands-on experience in developing interactive web applications and immersive digital experiences for our diverse range of clients.
+What You'll Be Doing
+Collaborate with designers and developers to translate creative concepts into engaging user experiences.
+Develop responsive and visually appealing front end interfaces using HTML, CSS, and JavaScript.
+Optimize web applications for maximum speed and scalability.
+Conduct thorough testing and debugging to ensure cross-browser compatibility and seamless functionality.
+Stay updated on emerging trends and technologies in front end development to enhance project outcomes.
+Assist in the maintenance and updates of existing websites and applications.
+Contribute ideas and solutions to enhance user experience and overall project quality.
+What You'll Bring
+Currently enrolled in a Bachelor's or Master's degree program in Computer Science, Web Development, or related field.
+Proficiency in HTML, CSS, and JavaScript.
+Familiarity with front end frameworks such as React, or Vue.js is a plus.
+Basic understanding of design principles and UI/UX best practices.
+Strong problem-solving skills and attention to detail.
+Excellent communication and teamwork abilities.
+Ability to thrive in a fast-paced environment and manage multiple tasks simultaneously.
+Additional Info
+Monday - Thursday in office (Fridays are remote optional)
+Flexible time off, including paid vacation and sick days
+Regular culture and team-building events
+Employee recognition and incentive programs
+Seasonal celebrations and gatherings
+Branded company swag
+Access to industry events and learning opportunities
+Dog-friendly offices
+Unlimited coffee, drinks, and snacks
+Flexible work and travel options
+Comprehensive extended health benefits
+Equal Opportunity:
+At Thinkingbox, we are committed to fostering an environment where everyone feels included, valued, and heard. We believe that diversity is our creative strength, and it’s the blend of unique experiences and perspectives that drives our best problem-solving and innovation. The outcome? Greater creativity, growth, and meaningful impact. We encourage all applicants, regardless of race, ethnicity, religion, gender, sexual orientation, age, disability, or gender identity, to apply and bring their unique talents to our team.
 
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
-
-The base salary for this position ranges from $43.13/hr up to $72.02/hr. Salary is based on a number of factors and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. Applicants should apply via our internal or external career site.
+To Apply:
+Thank you for applying to Thinkingbox! Please include both your resume and portfolio with your application. Due to the high volume of applications, we may not be able to reach out to everyone individually. However, rest assured that all applications are stored in our talent database and will be considered for future opportunities!

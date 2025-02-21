@@ -20,15 +20,17 @@ Experience
 
 Projects
 GitHub | https://github.com/Ctrl-Sky
-[Project name 1] - [Project Description 1]
-[Project name 2] - [Project Description 2]
+[Project name 1]
+[Project Description 1]
+[Project name 2]
+[Project Description 2]
 
 Education
 Computer Science - Bachelor of Applied Science | McMaster University Sept 2022 - Apr 2027
 
 Relevant Coursework
 [Course name]
-- [Course description]
+[Course description]
 
 Skills
 [Skill 1], [Skill2], [Include 10-15 skills]

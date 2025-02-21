@@ -2,31 +2,21 @@ Experience
 Job_title = Research Assistant
 Location = McMaster University, Computing and Software
 Date = May 2023 - Aug 2023
-Points:
-
-Worked with Dr. Stephen Kelly to research evolving adaptable control policies using gymnasium’s pendulum task and Distributed Evolutionary Algorithms in Python (DEAP) to conduct experiments on the partially observable pendulum task using machine learning.
-
-Designed an algorithm to pull the data from each experiment and write it to a csv to then create visual diagrams and graphs for presentation using NumPy and Pandas.
+Point = Worked with Dr. Stephen Kelly to research evolving adaptable control policies using gymnasium’s pendulum task and Distributed Evolutionary Algorithms in Python (DEAP) to conduct experiments on the partially observable pendulum task using machine learning.
+Point = Designed an algorithm to pull the data from each experiment and write it to a csv to then create visual diagrams and graphs for presentation using NumPy and Pandas.
 
 Job_title = Software Developer/DevOps Intern
 Location = Ontario Teachers’ Pension Plan
 Date = Sept 2024 - Aug 2025
-Points:
-
-Implemented CI/CD pipelines using Jenkins, GitHub, Ansible, and SonarQube to automate deployment and testing processes of different .NET and python applications.
-
-Rearchitected the company's Docker base image system, consolidating multiple redundant images (e.g., RHEL8 and Ubuntu with various Python versions) into a single standardized Ubuntu base image, reducing maintenance complexity and improving efficiency.
-
-Helped develop a proof of concept (POC) for migrating CI/CD workflows from Jenkins to GitHub Actions. Later collaborated with teams to integrate GitHub Actions into their workflows, providing documentation, training, and best practices for adoption.
-
-Developed a Jenkins pipeline and Python script to automate internal webpage updates via an API POST request, streamlining manual change processes.
-
-Increased logging visibility within Ansible and Jenkins for Flyway database migrations across Snowflake, MSSQL, and Oracle, improving troubleshooting and monitoring.
-
+Point = Implemented CI/CD pipelines using Jenkins, GitHub, Ansible, and SonarQube to automate deployment and testing processes of different .NET and python applications.
+Point = Rearchitected the company's Docker base image system, consolidating multiple redundant images (e.g., RHEL8 and Ubuntu with various Python versions) into a single standardized Ubuntu base image, reducing maintenance complexity and improving efficiency.
+Point = Helped develop a proof of concept (POC) for migrating CI/CD workflows from Jenkins to GitHub Actions. Later collaborated with teams to integrate GitHub Actions into their workflows, providing documentation, training, and best practices for adoption.
+Point = Developed a Jenkins pipeline and Python script to automate internal webpage updates via an API POST request, streamlining manual change processes.
+Point = Increased logging visibility within Ansible and Jenkins for Flyway database migrations across Snowflake, MSSQL, and Oracle, improving troubleshooting and monitoring.
 
 Personal Projects
 Project name = Gym Tracker App
-Project Description =  An app I developed in Swift that lets you create and track your workouts using user input and persistent data. Designing this app, I learned to catch save errors, use the persistent controller, and make fetch requests that filtered the data to meet my needs.
+Project Description = An app I developed in Swift that lets you create and track your workouts using user input and persistent data. Designing this app, I learned to catch save errors, use the persistent controller, and make fetch requests that filtered the data to meet my needs.
 
 Project name = Expense Sheet Combiner
 Project Description = Created a Python-based expense sheet combiner that reformats and consolidates transaction data from multiple sources (bank and credit cards) into a single standardized sheet. Utilized Pandas and dataframes to organize purchases by month and date into a single excel sheet, streamlining expense tracking and management.

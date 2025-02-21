@@ -45,7 +45,16 @@ def get_resume_prompt():
     
     resume_prompt = dedent(f"""\
         I will provide you with a job description, my skillset, and a resume template. Your task is to to map key-value pairs in my skillset to the resume template to best fit the job description.
-
+        
+        Do these when filling in the template:
+        Generate the unqiue highlight of qualifications based on what you included in the resume. Do not copy exactly what is on the resume, include unqiue highlights based off of the info. 
+        There will sometimes be more than 3 points listed, take which points you think best fit the job description
+        Do not shorten any of the points. Only include the full point and do not cut it off and summarise it. For example do not shorten:
+        Developed an application integrating Google's Gemini 2.0 model with Python to optimize resumes based on job descriptions. The project then automatically generates a tailored cover letter based on the previous results, then stores the optimized resume and cover letter in a directory. All executed within a GitHub Actions workflow for scalability.
+        to: Developed an application integrating Google's Gemini 2.0 model with Python to optimize resumes based on job descriptions.
+        Follow the template exactly, do not add more points than needed. For example, the format list one course name and one course description. Only add one course from the skillset and not more.
+        Finally, only output the resume. For example, do not output: “Ok here is the resume: [resume]”, only output “[resume]”
+        
         Here is the job description:
         {job_desc}
 
@@ -53,13 +62,7 @@ def get_resume_prompt():
         {skillset}
 
         Here is the resume template:
-        {resume_format}
-
-        Do these when filling in the template:
-        Generate the highlight of qualifications based on what you included in the resume and what best fits the job description.
-        Limit how much information you decide to include so that it can all fit into one A4 piece of paper.
-        There will sometimes be more than 3 points listed, take which points you think best fit the job description
-        Finally, only output the resume. For example, do not output: “Ok here is the resume: [resume]”, only output “[resume]”\
+        {resume_format}\
     """)
     print(resume_prompt)
     return resume_prompt
