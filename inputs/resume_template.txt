@@ -30,4 +30,4 @@ Relevant Coursework
 - [Course description]
 
 Skills
-[Skill 1], [Skill2], [Include 10-15 skills]
+[Skill 1], [Skill 2], [Include 10-15 skills]

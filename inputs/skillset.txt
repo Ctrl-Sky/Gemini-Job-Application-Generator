@@ -2,7 +2,7 @@ Experience
 Job_title = Research Assistant
 Location = McMaster University, Computing and Software
 Date = May 2023 - Aug 2023
-Point = Worked with Dr. Stephen Kelly to research evolving adaptable control policies using gymnasium’s pendulum task and Distributed Evolutionary Algorithms in Python (DEAP) to conduct experiments on the partially observable pendulum task using machine learning.
+Point = Worked with Dr. Stephen Kelly to research evolving adaptable control policies using gymnasium's pendulum task and Distributed Evolutionary Algorithms in Python (DEAP) to conduct experiments on the partially observable pendulum task using machine learning.
 Point = Designed an algorithm to pull the data from each experiment and write it to a csv to then create visual diagrams and graphs for presentation using NumPy and Pandas.
 
 Job_title = Software Developer/DevOps Intern
