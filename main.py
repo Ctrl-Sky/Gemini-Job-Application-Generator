@@ -5,10 +5,7 @@ import helpers
 import os
 import argparse
 
-def generate_cover_letter(company_name, job_title):
-    # Load and get environment variables from .env
-    load_dotenv()
-    gemini_api_token = os.getenv("GEMINI_API_TOKEN")
+def generate_cover_letter(company_name, job_title, gemini_api_token):
     phone_number = os.getenv("PHONE_NUMBER")
     email = os.getenv("EMAIL")
 
@@ -31,10 +28,26 @@ def generate_cover_letter(company_name, job_title):
     print(response.text)
     helpers.formatted_text_to_docx(response.text, company_name, job_title)
 
-# generate_cover_letter("hello", "hi")
-format_prompts.get_resume_prompt()
+def generate_resume():
+    # Get prompts
+    resume_prompt = format_prompts.get_resume_prompt()
 
-# if __name__=="__main__":
+    # Generate LLM response
+    client = genai.Client(api_key=gemini_api_token)
+    response = client.models.generate_content(
+        model="gemini-2.0-flash", 
+        contents=resume_prompt
+    )
+    print(response.text)
+
+if __name__=="__main__":
+    # Load and get environment variables from .env
+    load_dotenv()
+    gemini_api_token = os.getenv("GEMINI_API_TOKEN")
+    # generate_cover_letter("hi", "hello", gemini_api_token)
+    generate_resume()
+
+
 #     parser = argparse.ArgumentParser()
 #     parser.add_argument("company-name")
 #     parser.add_argument("job-title")

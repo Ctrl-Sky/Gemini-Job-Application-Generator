@@ -39,7 +39,7 @@ def get_resume_prompt():
     with open("inputs/job_description.txt") as desc:
         job_desc = desc.read()
     with open("inputs/skillset.txt") as skills:
-        skillset = skillset.read()
+        skillset = skills.read()
     with open("inputs/resume_template.txt") as resume:
         resume_format = resume.read()
     
