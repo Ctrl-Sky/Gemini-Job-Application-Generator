@@ -1,39 +1,50 @@
 Full job description
-Who We Are
-Hi! We’re Thinkingbox, a global creative collective shaping the future of brands through craft and curiosity. Our team brings together unique perspectives in design, technology, and strategy that push the boundaries for our clients to create work that is innovative. We are a curious bunch that loves to think big, continuously learn, and create. We love our culture and the natural collaboration that happens in and around our offices, from hanging out with our office dogs to fun weekly events, we maintain a vibrant work environment. However, for 4 weeks a year we encourage our people to explore the world. Try working from another office or even the beaches of Mexico and expand your worldview, then bring that experience back to the team.
+About the Role:
+Grade Level (for internal use): 05
 
-The Opportunity
-We are seeking a talented and motivated Front End Developer Intern to join our team. As a Front End Developer Intern at Thinkingbox, you will have the opportunity to work alongside experienced Developers in a collaborative environment. This internship offers hands-on experience in developing interactive web applications and immersive digital experiences for our diverse range of clients.
-What You'll Be Doing
-Collaborate with designers and developers to translate creative concepts into engaging user experiences.
-Develop responsive and visually appealing front end interfaces using HTML, CSS, and JavaScript.
-Optimize web applications for maximum speed and scalability.
-Conduct thorough testing and debugging to ensure cross-browser compatibility and seamless functionality.
-Stay updated on emerging trends and technologies in front end development to enhance project outcomes.
-Assist in the maintenance and updates of existing websites and applications.
-Contribute ideas and solutions to enhance user experience and overall project quality.
-What You'll Bring
-Currently enrolled in a Bachelor's or Master's degree program in Computer Science, Web Development, or related field.
-Proficiency in HTML, CSS, and JavaScript.
-Familiarity with front end frameworks such as React, or Vue.js is a plus.
-Basic understanding of design principles and UI/UX best practices.
-Strong problem-solving skills and attention to detail.
-Excellent communication and teamwork abilities.
-Ability to thrive in a fast-paced environment and manage multiple tasks simultaneously.
-Additional Info
-Monday - Thursday in office (Fridays are remote optional)
-Flexible time off, including paid vacation and sick days
-Regular culture and team-building events
-Employee recognition and incentive programs
-Seasonal celebrations and gatherings
-Branded company swag
-Access to industry events and learning opportunities
-Dog-friendly offices
-Unlimited coffee, drinks, and snacks
-Flexible work and travel options
-Comprehensive extended health benefits
-Equal Opportunity:
-At Thinkingbox, we are committed to fostering an environment where everyone feels included, valued, and heard. We believe that diversity is our creative strength, and it’s the blend of unique experiences and perspectives that drives our best problem-solving and innovation. The outcome? Greater creativity, growth, and meaningful impact. We encourage all applicants, regardless of race, ethnicity, religion, gender, sexual orientation, age, disability, or gender identity, to apply and bring their unique talents to our team.
+The Team:
+Our Ratings Technology Services and Technology Strategy Governance team enables a culture & mindset of Customer-First with a focus on delivering value through disciplined program delivery. Continuing to improve our User experience and stability of systems, employee productivity, innovation & overall employee engagement.
 
-To Apply:
-Thank you for applying to Thinkingbox! Please include both your resume and portfolio with your application. Due to the high volume of applications, we may not be able to reach out to everyone individually. However, rest assured that all applications are stored in our talent database and will be considered for future opportunities!
+Responsibilities and Impact:
+You will be p articipat ing in full development life cycle of product: design, development, testing , optimization and operations etc . in live environment impacting the world of finance.
+Learn and adopt SAFE software development practices as part of our SDLC
+
+Gain exposure into Ratings process and companywide standards, research, tools and other practices in analytical space.
+
+Take ownership of a specific problem aimed at solving real world use case related to structured finance or finance in general.
+
+Engage with senior leadership, build relations with diverse employee across the organization and get involved in various events other than your core responsibilities .
+
+Compensation/Benefits Information:
+S&P Global states that the anticipated base salary range of compensation for this position is $48,625 to $58,625. Final base salary compensation for this role will be based on the individual’s performance, geographic location, as well as experience level, skill set, training, licenses and certifications.
+
+This role is not eligible for additional compensation such as an annual incentive bonus or sales commission plan.
+
+What We’re Looking For:Basic Required Qualifications:
+Have strong C omputer Scie nce fundamentals through a current pursuit of bachelor’s in C omputer S cience , math or Computer Engineering, Management Information Systems, or related discipline
+
+Fully matriculated students with anticipated graduation date in Fall 2025 or Spring 2026
+
+Some programming experience (either in class or in your personal time). We work mostly on Java and Python with some scala. However, in this ever-changing world, languages can be learned. We at S&P care more about your general engineering skill rather than knowledge of a particular language or framework.
+
+Familiarity with navigating new codebases and managing work across different programming languages .
+
+Collaborating with teammates during technical designs and planning.
+
+Additional Preferred Qualifications:
+Examples of relevant work and your approach to learning, such as GitHub repositories, StackOverflow contributions, or other project portfolios.
+
+A proactive approach to learning unfamiliar systems and a demonstrated ability to understand complex systems independently.
+
+About S&P Global Ratings
+At S&P Global Ratings, our analyst-driven credit ratings, research, and sustainable finance opinions provide critical insights that are essential to translating complexity into clarity so market participants can uncover opportunities and make decisions with conviction. By bringing transparency to the market through high-quality independent opinions on creditworthiness, we enable growth across a wide variety of organizations, including businesses, governments, and institutions.
+S&P Global Ratings is a division of S&P Global (NYSE: SPGI). S&P Global is the world’s foremost provider of credit ratings, benchmarks, analytics and workflow solutions in the global capital, commodity and automotive markets. With every one of our offerings, we help many of the world’s leading organizations navigate the economic landscape so they can plan for tomorrow, today.
+
+For more information, visit www.spglobal.com/ratings
+
+What’s In It For You?
+
+Our Purpose:
+Progress is not a self-starter. It requires a catalyst to be set in motion. Information, imagination, people, technology–the right combination can unlock possibility and change the world.
+
+Our world is in transition and getting more complex by the day. We push past expected observations and seek out new levels of understanding so that we can help companies, governments and individuals make an impact on tomorrow. At S&P Global we transform data into Essential Intelligence®, pinpointing risks and opening possibilities. We Accelerate Progr
