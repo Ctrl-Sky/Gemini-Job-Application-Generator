@@ -31,7 +31,8 @@ def generate_cover_letter(company_name, job_title):
     print(response.text)
     helpers.formatted_text_to_docx(response.text, company_name, job_title)
 
-generate_cover_letter("hello", "hi")
+# generate_cover_letter("hello", "hi")
+format_prompts.get_resume_prompt()
 
 # if __name__=="__main__":
 #     parser = argparse.ArgumentParser()

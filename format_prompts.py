@@ -34,3 +34,32 @@ def get_cl_prompt(phone_num, email, job_desc, resume):
         {job_desc}\
     """)
     return cl_prompt
+
+def get_resume_prompt():
+    with open("inputs/job_description.txt") as desc:
+        job_desc = desc.read()
+    with open("inputs/skillset.txt") as skills:
+        skillset = skillset.read()
+    with open("inputs/resume_template.txt") as resume:
+        resume_format = resume.read()
+    
+    resume_prompt = dedent(f"""\
+        I will provide you with a job description, my skillset, and a resume template. Your task is to to map key-value pairs in my skillset to the resume template to best fit the job description.
+
+        Here is the job description:
+        {job_desc}
+
+        Here is my skillset:
+        {skillset}
+
+        Here is the resume template:
+        {resume_format}
+
+        Do these when filling in the template:
+        Generate the highlight of qualifications based on what you included in the resume and what best fits the job description.
+        Limit how much information you decide to include so that it can all fit into one A4 piece of paper.
+        There will sometimes be more than 3 points listed, take which points you think best fit the job description
+        Finally, only output the resume. For example, do not output: “Ok here is the resume: [resume]”, only output “[resume]”\
+    """)
+    print(resume_prompt)
+    return resume_prompt
