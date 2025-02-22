@@ -6,11 +6,15 @@ import os
 import argparse
 
 def generate_resume_and_cl(company_name, job_title):
+    # Get resume and cover letter prompt
     resume_prompt = format_prompts.get_resume_prompt()
     cl_prompt = format_prompts.get_cl_prompt(phone_number, email)
 
+    # Create conversation with gemini model
     client = genai.Client(api_key=gemini_api_token)
     chat = client.chats.create(model="gemini-2.0-flash")
+
+    # Get response from prompt and write to docs
     response = chat.send_message(resume_prompt)
     helpers.formatted_text_to_docx(response.text, "resume.docx")
     response = chat.send_message(cl_prompt)
