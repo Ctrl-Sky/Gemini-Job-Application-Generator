@@ -1,0 +1,31 @@
+name: Execute Application
+on: workflow_dispatch
+jobs:
+  Execute-Application:
+    runs-on: [ubuntu-latest, windows-latest]
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+    
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+    
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate Resume and Cover Letter
+        run: python3.12 ./src/main.py
+
+      - name: Save Resume and Cover Letter to Directory on Linux
+        if: runner.os == 'Linux'
+        run: bash ./store_resume_and_cl.sh
+
+      - name: Save Resume and Cover Letter to Directory on Windows
+        if: runner.os == 'Windows'
+        run: store_resume_and_cl.bat
+
+      - name: Write to master CSV file
+        run: python3.12 save_to_csv.py
+            
