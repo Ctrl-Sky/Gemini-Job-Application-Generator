@@ -13,10 +13,16 @@ def generate_resume_and_cl():
     client = genai.Client(api_key=gemini_api_token)
     chat = client.chats.create(model="gemini-2.0-flash")
 
-    # Get response from prompt and write to docs
+    # Get resume and write to docx
+    print("Generating Resume...")
     response = chat.send_message(resume_prompt)
+    print("Successfully Created Resume")
     helpers.formatted_text_to_docx(response.text, "resume.docx")
+
+    # Get cover letter and write to docx
+    print("Generating Cover Letter...")
     response = chat.send_message(cl_prompt)
+    print("Successfully Created Cover Letter")
     helpers.formatted_text_to_docx(response.text, "cover_letter.docx")
 
 
