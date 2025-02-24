@@ -12,7 +12,7 @@ def get_company_name():
         model="gemini-2.0-flash",
         contents=f"{job_desc} What is the company name? Only output the company name. For example, if you think the company name is Amazon, only output Amazon",
     )
-    print(response.text)
+    print(response.text.strip())
 
 if __name__=="__main__":
     load_dotenv()

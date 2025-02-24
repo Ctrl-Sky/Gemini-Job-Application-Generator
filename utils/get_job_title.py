@@ -12,7 +12,7 @@ def get_job_title():
         model="gemini-2.0-flash",
         contents=f"{job_desc} What is the job title? Only output the job title. For example, if you think the job title is Software Developer, only output Software Developer",
     )
-    print(response.text)
+    print(response.text.strip())
 
 if __name__=="__main__":
     load_dotenv()
