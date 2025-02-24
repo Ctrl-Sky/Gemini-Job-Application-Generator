@@ -19,7 +19,7 @@ If you're on linux run:
 If you're on windows run:
 `.\execute_application.ps1`
 
-The .docx files will be written to outputs/<day_applied>/<company_name>-<job_title>/ and the csv file will be update at outputs/
+The .docx files will be written to `outputs/<day_applied>/<company_name>-<job_title>` and the csv file will be updated at `outputs`
 
 ## Technologies Used
 - Google's Gemini 2.0 Flash model
