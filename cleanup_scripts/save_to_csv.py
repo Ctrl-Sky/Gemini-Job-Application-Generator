@@ -9,12 +9,13 @@ def save_to_csv(company_name, job_title, today, csv_path):
 
     with open(csv_path, "a", newline="") as file:
         writer = csv.writer(file)
-
+        print("Writing to csv...")
         if not csv_exist:
             header = ["Company Name", " ", "Job Title", " ", " ", "Date Applied"]
             writer.writerow(header)
 
         writer.writerow(data)
+    print("Successfully wrote to csv\n")
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()

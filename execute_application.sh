@@ -15,3 +15,5 @@ python3.12 src/main.py
 # Store and save resume and cover letter
 bash cleanup_scipts/store_resume_and_cl.sh "${COMPANY_NAME}" "${JOB_TITLE}"
 python3.12 cleanup_scipts/save_to_csv.py "${COMPANY_NAME}" "${JOB_TITLE}"
+
+echo "Application successfully executed"

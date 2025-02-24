@@ -18,12 +18,12 @@ echo "Moving job description"
 cp inputs/job_description.txt "$DIR_PATH"
 
 # Rename and move cover letter
-echo "Moving resume"
+echo "Moving Cover Letter"
 mv cover_letter.docx "Sky_Quan_Cover_Letter_$INITIALS.docx"
 mv "Sky_Quan_Cover_Letter_$INITIALS.docx" "$DIR_PATH"
 
 # Rename and move resume
-echo "Moving cover letter"
+echo "Moving Resume"
 mv resume.docx "Sky_Quan_Resume_$INITIALS.docx"
 mv "Sky_Quan_Resume_$INITIALS.docx" "$DIR_PATH"
 

@@ -1,11 +1,11 @@
-# PowerShell equivalent of your Bash script
+# PowerShell equivalent of store_resume_and_cl.sh
 
 param(
     [string]$COMPANY_NAME,
     [string]$JOB_TITLE
 )
 
-# Get the current month and year in format "Month-Year"
+# Get the current month and year in format %b-%Y
 $MONTH_DATE = Get-Date -Format "MMM-yyyy"
 $DIR_PATH = "outputs\$MONTH_DATE\$COMPANY_NAME-$JOB_TITLE"
 $INITIALS = "$($COMPANY_NAME.Substring(0,1))$($JOB_TITLE.Substring(0,1))"

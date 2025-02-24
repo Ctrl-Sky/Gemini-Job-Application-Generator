@@ -16,13 +16,13 @@ def generate_resume_and_cl():
     # Get resume and write to docx
     print("Generating Resume...")
     response = chat.send_message(resume_prompt)
-    print("Successfully Created Resume")
+    print("Successfully Created Resume\n")
     helpers.formatted_text_to_docx(response.text, "resume.docx")
 
     # Get cover letter and write to docx
     print("Generating Cover Letter...")
     response = chat.send_message(cl_prompt)
-    print("Successfully Created Cover Letter")
+    print("Successfully Created Cover Letter\n")
     helpers.formatted_text_to_docx(response.text, "cover_letter.docx")
 
 
