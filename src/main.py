@@ -3,9 +3,8 @@ from google import genai
 import format_prompts
 import helpers
 import os
-import argparse
 
-def generate_resume_and_cl(company_name, job_title):
+def generate_resume_and_cl():
     # Get resume and cover letter prompt
     resume_prompt = format_prompts.get_resume_prompt()
     cl_prompt = format_prompts.get_cl_prompt(phone_number, email)
@@ -22,16 +21,11 @@ def generate_resume_and_cl(company_name, job_title):
 
 
 if __name__=="__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("company_name", nargs="?", default="hello")
-    parser.add_argument("job_title", nargs="?", default="hi")
-    args = parser.parse_args()
-
     # Load and get environment variables from .env
     load_dotenv()
     gemini_api_token = os.getenv("GEMINI_API_TOKEN")
     phone_number = os.getenv("PHONE_NUMBER")
     email = os.getenv("EMAIL")
 
-    generate_resume_and_cl(args.company_name, args.job_title)
+    generate_resume_and_cl()
 
