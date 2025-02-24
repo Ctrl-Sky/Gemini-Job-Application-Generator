@@ -16,7 +16,7 @@ if (-not (Test-Path -Path $DIR_PATH)) {
     New-Item -ItemType Directory -Path $DIR_PATH
 }
 
-# Copy Job Description to path
+# Copy Job Description to path outputs\Feb-2025\Qualcomm Canada ULC -Interim Engineering Intern - SW
 Write-Host "Moving job description"
 Copy-Item -Path "inputs\job_description.txt" -Destination $DIR_PATH
 

@@ -13,7 +13,7 @@ export JOB_TITLE=$(python3.12 utils/get_job_title.py)
 python3.12 src/main.py
 
 # Store and save resume and cover letter
-bash cleanup_scipts/store_resume_and_cl.sh "${COMPANY_NAME}" "${JOB_TITLE}"
-python3.12 cleanup_scipts/save_to_csv.py "${COMPANY_NAME}" "${JOB_TITLE}"
+bash cleanup_scripts/store_resume_and_cl.sh "${COMPANY_NAME}" "${JOB_TITLE}"
+python3.12 cleanup_scripts/save_to_csv.py "${COMPANY_NAME}" "${JOB_TITLE}"
 
 echo "Application successfully executed"
