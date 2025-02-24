@@ -5,7 +5,7 @@ This project automates the job application process using Google’s Gemini-2.0 a
 
 With these suggestions, the model then helps in generating ideas and key content for a cover letter. The resulting resume and cover letter drafts are then saved as a .docx file for editing and personalization.
 
-All generated content is stored in the outputs directory, so you can revisit and track your job applications over time. Additionally, the system logs each interaction in a CSV file, providing a record of the jobs you've applied to with this automation.
+All generated content is stored in the hidden `outputs` directory, so you can revisit and track your job applications over time. Additionally, the system logs each interaction in a CSV file, providing a record of the jobs you've applied to with this automation.
 
 ## How to use
 This project takes 3 parameters within the inputs directory.
