@@ -1,4 +1,4 @@
-# ApplyAI
+# Gemini-Job-Application-Generator
 
 ## Overview
 This project automates the job application process using Google’s Gemini-2.0 and GitHub Actions. Taking a job description and your resume, the model provides suggestions for your resume, suggesting relevant points that best match the job.
