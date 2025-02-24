@@ -3,6 +3,7 @@ on: workflow_dispatch
 jobs:
   Execute-Application:
     runs-on: [ubuntu-latest, windows-latest]
+    environment: dev
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -16,16 +17,20 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate Resume and Cover Letter
+        env:
+          GEMINI_API_TOKEN: ${{ secrets.GEMINI_API_TOKEN }}
+          PHONE_NUMBER: ${{ secrets.PHONE_NUMBER }}
+          EMAIL: ${{ secrets.EMAIL }}
         run: python3.12 ./src/main.py
 
       - name: Save Resume and Cover Letter to Directory on Linux
         if: runner.os == 'Linux'
-        run: bash ./store_resume_and_cl.sh
+        run: bash ./store_resume_and_cl.sh "hi" "hello"
 
       - name: Save Resume and Cover Letter to Directory on Windows
         if: runner.os == 'Windows'
-        run: store_resume_and_cl.bat
+        run: store_resume_and_cl.bat "hi" "hello"
 
       - name: Write to master CSV file
-        run: python3.12 save_to_csv.py
+        run: python3.12 save_to_csv.py "hi" "hello"
             
